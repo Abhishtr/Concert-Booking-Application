@@ -31,3 +31,20 @@ For Creating Database you have two options
 - second option, use "python manage.py migrate". This will create an empty database which you will have to populate.
 
 After all this is done successfully, run "python manage.py runserver" and open the link in browser
+
+## Some Screenshots
+![Login Page](Screenshots/Frontend/login.png "Login Page")
+
+![After Login](Screenshots/Frontend/home_2.png "Home Page")
+
+![Concert Page](Screenshots/Frontend/Booking.png "Concert Page")
+
+![Available Concert](Screenshots/Frontend/Ticket_Selection.png "Available Concerts")
+
+![Seat Selection](Screenshots/Frontend/Seat_Selection.png "Seat Selection")
+
+![Users's upcoming Concerts](Screenshots/Frontend/ticket.png "User's upcoming Concerts")
+
+![User Wallet](Screenshots/Frontend/Balance.png "User wallet")
+
+![Admin Dashboard](Screenshots/Frontend/Admin_Dashboard.png "Admin Dashboard")
